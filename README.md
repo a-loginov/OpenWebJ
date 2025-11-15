@@ -33,7 +33,7 @@ OpenWebJ — это современное веб-приложение для с
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/OpenWebJ.git
+git clone https://github.com/a-loginov/OpenWebJ.git
 cd OpenWebJ
 ```
 
@@ -43,7 +43,7 @@ cd OpenWebJ
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/OpenWebJ.git
+git clone https://github.com/a-loginov/OpenWebJ.git
 cd OpenWebJ
 ```
 
