@@ -1,4 +1,5 @@
 # OpenWebJ (Beta)
+<img width="1280" height="640" alt="OpenWebJ Github" src="https://github.com/user-attachments/assets/24217cc8-b242-40af-89e8-492f553ca942" />
 
 OpenWebJ — это современное веб-приложение для создания и организации заметок, вдохновленное Notion. Приложение предоставляет интуитивный интерфейс для создания страниц с различными типами контента.
 
